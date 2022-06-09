@@ -3,12 +3,12 @@
 
 Weather App - React.js & TailwindCSS.
 
-Made this for fun as my Web Development online Bootcamp's final project . 
+Made this for fun as my Web Development online Bootcamp's final project. 
 
 
 ## WotDaWeather link:
 
-<!-- https://devabdee.github.io/Simon-Game/ -->
+https://wot-da-weather.vercel.app/
 
 
 ## Tech Stack
